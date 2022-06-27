@@ -39,6 +39,7 @@
 #include "WritableUtils.h"
 
 #include <algorithm>
+#include <iostream>
 #include <string>
 #if WITH_KERBEROS
 #include <krb5/krb5.h>
